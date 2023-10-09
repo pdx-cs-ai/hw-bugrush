@@ -40,3 +40,8 @@ instance given here is as follows:
     unsat5x7.bugs: unsat
 
 
+
+# License
+
+This work is licensed under the "MIT License". Please see the file
+`LICENSE.txt` in this distribution for license terms.
